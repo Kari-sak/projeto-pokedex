@@ -1,0 +1,24 @@
+package dominio;
+
+public enum Tipo {
+
+	AÇO,
+	ÁGUA,
+	DRAGÃO,
+	ELÉTRICO,
+	FADA,
+	FANTASMA,
+	FOGO,
+	GELO,
+	INSETO,
+	LUTADOR,
+	NORMAL,
+	PEDRA,
+	PLANTA,
+	PSÍQUICO,
+	SOMBRIO,
+	TERRESTRE,
+	VENENOSO,
+	VOADOR,
+	
+}
